@@ -2,8 +2,8 @@
 
 ## 👥 Thành viên
 - **Nhóm trưởng**: Nguyễn Tài Quang
-- **Thành viên **: Nguyễn Hữu Phước
-- **Thành viên **: Cao Minh Quang
+- **Thành viên**: Nguyễn Hữu Phước
+- **Thành viên**: Cao Minh Quang
 
 ## 📝 Giới thiệu
 Chào mừng đến với dự án của nhóm 3.
