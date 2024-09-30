@@ -15,7 +15,7 @@ Chào mừng đến với dự án của nhóm 3.
 | ------------- | -----------------------|-----------------------|
 | Chủ đề 1      | [Repo 1](link_repo_1)  | Notepad               |
 | Chủ đề 2      | [Repo 2](link_repo_2)  | WindowsExplorer       |
-| Chủ đề 3      | [Repo 3](link_repo_3)  | Calculator            |
+| Chủ đề 3      | [Repo 3](https://github.com/NT106-P12-Group3/Calculator/tree/master)  | Calculator            |
 | Chủ đề 4      | [Repo 3](link_repo_3)  | PictureViewer         |
 
 
